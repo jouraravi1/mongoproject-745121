@@ -1,0 +1,7 @@
+db.warehouse.insertMany([
+{ "_id" : ObjectId("5d8eff2e3872dfeaac319ec5"), "warehouse_id" : "A222", "location" : "Hamilton", "supplier_id" : "C001" }
+{ "_id" : ObjectId("5d8eff2e3872dfeaac319ec6"), "warehouse_id" : "A223", "location" : "Bolton", "supplier_id" : "C006" }
+{ "_id" : ObjectId("5d8eff2e3872dfeaac319ec7"), "warehouse_id" : "A224", "location" : "Kitchener", "supplier_id" : "C001" }
+{ "_id" : ObjectId("5d8eff2e3872dfeaac319eca"), "warehouse_id" : "A227", "location" : "Barrie", "supplier_id" : "C004" }
+{ "_id" : ObjectId("5d8eff2e3872dfeaac319ecb"), "warehouse_id" : "A228", "location" : "Milton", "supplier_id" : "C002" }
+])

@@ -1,0 +1,17 @@
+<html>
+<body>
+	<h2> Enter the values needed to inserted</h2>
+	<form id="protest_form" action="http://localhost:8081/api/product_insert" method="post">
+
+            <input type="text" id="scoutName" name="p_id" placeholder="product id"> <br>
+            <input type="text" id="scoutSurname" name="p_name" placeholder="name"> <br>
+            <input type="text" id="scoutPassword" name="p_quantity" placeholder="quantity"> <br>
+
+            <button type="submit" id="button" class="btn btn-primary">Submit</button>
+            
+        </form>
+</body>
+
+
+</html>
+
